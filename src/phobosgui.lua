@@ -2,7 +2,7 @@
 
 	PHOBOS GUI - 1 RELEASE
 	BY RESTART - 2014
-	https://github.com/FreshRestart/phobosgui
+	https://code.google.com/p/phobos-gui/
 
 ]]--
 
